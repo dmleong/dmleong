@@ -10,8 +10,13 @@ Some best hits include:
 * [My meeting philosophy](https://github.com/dmleong/manager-resources/blob/master/docs/meetings.md) 
 * [Templates for 1:1s](https://github.com/dmleong/manager-resources/tree/master/templates)
 
-:camera: **Photography:** I am also a fashion and portrait photographer, specializing in creating fun, colorful, inclusive photos. Check out more [here](https://danielleleongphotography )
+:camera: **Photography:** I am also a fashion and portrait photographer, specializing in creating fun, colorful, inclusive photos. Check out more [on my site](https://danielleleongphotography) or on [Instagram](https://instagram.com/danielleleongphoto]
 
 :lock_with_ink_pen: **Trust & Safety:** I also am a Trust & Safety consultant helping companies build products with the safety of their users in mind. Check out my consultancy at [here](https://consensualsoftware.com).
 
 :bird: **Public Speaking:** I do a lot of public speaking on engineering management, building inclusivity into your products and teams, and Trust & Safety. The best way to reach out to me is through [Twitter](https://twitter.com/tsunamino).
+
+Some best hits include: 
+* [Bloomberg's Distinguished Engineers Speaker Series: Consensual Software](https://www.youtube.com/watch?v=qJys8oiB0SI)
+* [CTO Summit: How to grow emotionally intelligent engineering teams](https://pbell.wistia.com/medias/k8htv3947p)
+* [Corpse Party Bugs lightning talk](https://www.youtube.com/watch?v=kZXClhSkaI8) 
