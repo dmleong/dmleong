@@ -2,8 +2,8 @@
 
 ![filmstrip](https://user-images.githubusercontent.com/2171822/84818146-ddf07780-afca-11ea-929f-00073cf2aa8e.jpg)
 
-### :computer: **Management** 
-I'm a Sr. Engineering Manager at @github leading the Identity and Access Management (IAM) team. To read more about my thoughts on management, templates, and blog posts, check out my manager resources over at [here](https://github.com/dmleong/manager-resources).
+### :octocat: **Management** 
+I'm a Sr. Engineering Manager at GitHub leading the Identity and Access Management (IAM) team. To read more about my thoughts on management, templates, and blog posts, check out my manager resources over at [here](https://github.com/dmleong/manager-resources).
 
 Some best hits include: 
 * [Setting goals with your engineers that don't completely suck](https://medium.com/@tsunamino/setting-goals-with-your-engineers-that-dont-completely-suck-cb76b87e4275)
