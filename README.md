@@ -12,7 +12,7 @@ Some best hits include:
 * [Templates for 1:1s](https://github.com/dmleong/manager-resources/tree/master/templates)
 
 ### :camera: **Photography** 
-I am also a fashion and portrait photographer, specializing in creating fun, colorful, inclusive photos. Check out more [on my site](https://danielleleongphotography) or on [Instagram](https://instagram.com/danielleleongphoto).
+I am also a fashion and portrait photographer, specializing in creating fun, colorful, inclusive photos. Check out more [on my site](https://danielleleongphotography.com) or on [Instagram](https://instagram.com/danielleleongphoto).
 
 ### :lock_with_ink_pen: **Trust & Safety** 
 I also am a Trust & Safety consultant helping companies build products with the safety of their users in mind. Check out my consultancy at [here](https://consensualsoftware.com).
