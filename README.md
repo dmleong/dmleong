@@ -3,7 +3,7 @@
 ![filmstrip](https://user-images.githubusercontent.com/2171822/86031057-34f24580-b9ea-11ea-9dd8-f46ab9b31fe7.jpg)
 
 ### :octocat: **Management** 
-I'm the VP of Engineering at @Maca-io, previously the Director of Engineering, IAM at @github and an engineer at Twilio. To read more about my thoughts on management, templates, and blog posts, check out my manager resources over at [here](https://github.com/dmleong/manager-resources).
+I'm the VP of Engineering at @firehydrant, previously VP at @Maca-io, Director of Engineering, IAM at @github and an engineer at Twilio. To read more about my thoughts on management, templates, and blog posts, check out my manager resources over at [here](https://github.com/dmleong/manager-resources).
 
 Some best hits include: 
 * [Setting goals with your engineers that don't completely suck](https://medium.com/@tsunamino/setting-goals-with-your-engineers-that-dont-completely-suck-cb76b87e4275)
